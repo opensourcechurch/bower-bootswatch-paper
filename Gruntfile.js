@@ -9,7 +9,7 @@ module.exports = function(grunt) {
           yuicompress: false
         },
         files: {
-          "css/paper.css": "less/paper.less"
+          "css/yeti.css": "less/yeti.less"
         }
       },
 
@@ -18,7 +18,7 @@ module.exports = function(grunt) {
           yuicompress: true
         },
         files: {
-          "css/paper.min.css": "less/paper.less"
+          "css/yeti.min.css": "less/yeti.less"
         }
 
       }
