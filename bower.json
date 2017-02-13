@@ -1,9 +1,9 @@
 {
-  "name": "bower-bootswatch-paper",
+  "name": "bower-bootswatch-yeti",
   "version": "3.2.0",
-  "main": "css/paper.css",
+  "main": "css/yeti.css",
   "keywords": [
-    "paper",
+    "yeti",
     "bootstrap",
     "twitter",
     "bootswatch",
